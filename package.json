@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author":"GaryHjy <782316959@qq.com>",
+  "author": "GaryHjy <782316959@qq.com>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
@@ -9,7 +9,8 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "umi": "^4.0.26"
+    "umi": "^4.0.26",
+    "umi-request": "^1.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
